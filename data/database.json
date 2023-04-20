@@ -11,7 +11,7 @@
       "phoneNumber": "625-316-9882",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/t45AiwidW.svg",
       "defaultPrivacyLevel": "public",
-      "balance": 155837,
+      "balance": 168137,
       "createdAt": "2019-08-27T23:47:05.637Z",
       "modifiedAt": "2020-05-21T11:02:22.857Z"
     },
@@ -71,9 +71,20 @@
       "phoneNumber": "277-189-3402",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/tsHF6_D5oQ.svg",
       "defaultPrivacyLevel": "contacts",
-      "balance": 87669,
+      "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "DV7C38OHd",
+      "uuid": "795621fb-e0b8-4a6f-a85e-1ad940ff7110",
+      "firstName": "qwe",
+      "lastName": "qwee",
+      "username": "qweqweqw",
+      "password": "$2a$10$/eUL0spF3qkm5i1sGG9lZeKkaBZzD0m7eZapRcmAZuM5oU9Gq4I0W",
+      "balance": 0,
+      "createdAt": "2023-04-20T10:30:18.785Z",
+      "modifiedAt": "2023-04-20T10:30:18.785Z"
     }
   ],
   "contacts": [
@@ -206,7 +217,7 @@
       "bankName": "O'Hara - Labadie Bank",
       "accountNumber": "6123387981",
       "routingNumber": "851823229",
-      "isDeleted": true,
+      "isDeleted": false,
       "createdAt": "2020-05-09T07:57:26.947Z",
       "modifiedAt": "2020-05-21T22:18:50.916Z"
     },
@@ -253,17 +264,6 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
-    },
-    {
-      "id": "c_fa9VWbk",
-      "uuid": "ad4b334a-0e19-40a3-8be8-968917302771",
-      "userId": "t45AiwidW",
-      "bankName": "dwdwew",
-      "accountNumber": "1233123123",
-      "routingNumber": "121233123",
-      "isDeleted": true,
-      "createdAt": "2023-04-05T12:40:04.561Z",
-      "modifiedAt": "2023-04-05T12:40:04.561Z"
     }
   ],
   "transactions": [
@@ -9866,18 +9866,6 @@
       "requestResolvedAt": "",
       "createdAt": "2019-06-27T22:24:04.794Z",
       "modifiedAt": "2020-05-21T04:58:44.494Z"
-    },
-    {
-      "id": "-WLDWWGHs",
-      "uuid": "9f209c65-e29e-4daa-b646-09c1fadcb9d4",
-      "amount": 12300,
-      "description": "2ed",
-      "receiverId": "tsHF6_D5oQ",
-      "senderId": "t45AiwidW",
-      "privacyLevel": "public",
-      "status": "complete",
-      "createdAt": "2023-04-05T12:41:58.343Z",
-      "modifiedAt": "2023-04-05T12:41:58.343Z"
     }
   ],
   "likes": [
@@ -10454,16 +10442,6 @@
       "isRead": false,
       "createdAt": "2019-10-19T20:50:49.292Z",
       "modifiedAt": "2020-05-21T21:00:50.192Z"
-    },
-    {
-      "id": "UIDvHzfkKH",
-      "uuid": "339de752-d827-41d4-8fcd-3f261e63b236",
-      "userId": "tsHF6_D5oQ",
-      "transactionId": "-WLDWWGHs",
-      "status": "received",
-      "isRead": false,
-      "createdAt": "2023-04-05T12:41:58.352Z",
-      "modifiedAt": "2023-04-05T12:41:58.352Z"
     }
   ],
   "banktransfers": [
