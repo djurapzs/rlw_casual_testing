@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+/tests/api
+/tests/demo
+/tests/ui
+/tests/ui-auth-providers
 
 # testing
 /coverage
